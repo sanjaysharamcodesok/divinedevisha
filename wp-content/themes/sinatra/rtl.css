@@ -1,0 +1,3 @@
+body {direction: rtl;unicode-bidi: embed;}
+th {text-align: right;}
+.screen-reader-text:focus {left: auto;right: 5px;}
